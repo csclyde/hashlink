@@ -58,3 +58,4 @@ class BinaryTrees {
 		Benchs.result(result);
 	}
 }
+

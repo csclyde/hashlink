@@ -70,3 +70,4 @@ class ExceptionTestCase extends TestCase
 		assertEquals(expected, msg);
 	}
 }
+

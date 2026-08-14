@@ -454,3 +454,4 @@ class ProfileGen {
 		run(Sys.args());
 	}
 }
+

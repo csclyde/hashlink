@@ -967,3 +967,4 @@ class GL {
 	public static inline var ALL_BARRIER_BITS                = 0xFFFFFFFF;
 
 }
+

@@ -59,3 +59,4 @@ class BasicTestCase extends TestCase
 		FileSystem.deleteFile(file);
 	}
 }
+

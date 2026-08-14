@@ -26,3 +26,4 @@ class Test extends hxd.App {
 	}
 
 }
+

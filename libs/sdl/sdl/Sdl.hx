@@ -299,3 +299,4 @@ enum abstract SDLHint(String) from String to String {
 	var SDL_HINT_NO_SIGNAL_HANDLERS =                       "SDL_NO_SIGNAL_HANDLERS";
 	var SDL_HINT_WINDOWS_NO_CLOSE_ON_ALT_F4 =               "SDL_WINDOWS_NO_CLOSE_ON_ALT_F4";
 }
+

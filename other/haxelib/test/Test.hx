@@ -3,3 +3,4 @@ class Test {
 		trace("Hello World");
 	}
 }
+

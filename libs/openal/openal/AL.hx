@@ -211,3 +211,4 @@ extern class AL {
 	public static inline var EXPONENT_DISTANCE                     = 0xD005;
 	public static inline var EXPONENT_DISTANCE_CLAMPED             = 0xD006;
 }
+

@@ -51,3 +51,4 @@ abstract Cursor(CursorPtr) {
 	}
 
 }
+

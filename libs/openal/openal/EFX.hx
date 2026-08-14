@@ -248,3 +248,4 @@ extern class EFX {
 	public static function getAuxiliaryEffectSlotf    (effectslot : EffectSlot, param : Int) : hl.F32;
 	public static function getAuxiliaryEffectSlotfv   (effectslot : EffectSlot, param : Int, pflValues : hl.Bytes)  : Void;
 }
+

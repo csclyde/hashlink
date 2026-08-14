@@ -129,3 +129,4 @@ class ResultSetTestCase extends TestCase
 		assertEquals(true, vals.bo);
 	}
 }
+

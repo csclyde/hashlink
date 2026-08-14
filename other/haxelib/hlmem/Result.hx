@@ -155,3 +155,4 @@ class BlockStats extends Result {
 	}
 
 }
+

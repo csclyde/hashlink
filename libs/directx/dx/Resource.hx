@@ -58,3 +58,4 @@ abstract Resource(hl.Abstract<"dx_resource">) {
 	}
 
 }
+

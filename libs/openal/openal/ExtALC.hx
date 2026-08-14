@@ -141,3 +141,4 @@ extern class ExtALC {
 	public static inline var SURROUND_6_1_SOFT                     = 0x1505;
 	public static inline var SURROUND_7_1_SOFT                     = 0x1506;
 }
+

@@ -83,3 +83,4 @@ extern class ALC {
 	public static inline var DEFAULT_ALL_DEVICES_SPECIFIER    = 0x1012;
 	public static inline var ALL_DEVICES_SPECIFIER            = 0x1013;
 }
+

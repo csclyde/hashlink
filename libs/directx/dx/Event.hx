@@ -52,3 +52,4 @@ enum abstract WindowStateChange(Int) {
 	var Blur     = 11;
 	var Close    = 12;
 }
+
